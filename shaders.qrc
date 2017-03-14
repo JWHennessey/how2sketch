@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/resources/shaders">
+        <file alias="phongfshader.frag">resources/shaders/phongfshader.frag</file>
+        <file alias="phongvshader.vert">resources/shaders/phongvshader.vert</file>
+        <file alias="suggestive_contours.frag">resources/shaders/suggestive_contours.frag</file>
+        <file alias="suggestive_contours.vert">resources/shaders/suggestive_contours.vert</file>
+        <file alias="segmentation.frag">resources/shaders/segmentation.frag</file>
+        <file alias="segmentation.vert">resources/shaders/segmentation.vert</file>
+        <file alias="box.vert">resources/shaders/box.vert</file>
+        <file alias="box.frag">resources/shaders/box.frag</file>
+        <file alias="box.geom">resources/shaders/box_geom.glsl</file>
+        <file alias="text.frag">resources/shaders/text.frag</file>
+        <file alias="text.vert">resources/shaders/text.vert</file>
+        <file alias="perspectivelines.glsl">resources/shaders/perspectivelines.glsl</file>
+        <file alias="ellipseshader.vert">resources/shaders/ellipseshader.vert</file>
+        <file alias="ellipseshader.frag">resources/shaders/ellipseshader.frag</file>
+    </qresource>
+</RCC>
